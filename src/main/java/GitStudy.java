@@ -47,6 +47,7 @@
  *
  */
 
+
 /**
  * 远程库地址比较长，每次复制比较麻烦
  * https://github.com/hanwangfei/GitResp.git
@@ -63,4 +64,8 @@
  */
 
 public class GitStudy {
+    public static void main(String[] args) {
+        System.out.println("hello world");
+    }
+
 }
